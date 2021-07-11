@@ -1,6 +1,6 @@
 // 1. 필요한 element들인 input, button, ul, li 생성 X
 // 2. button을 누르면 li가 생성되는 기능 구현 X
-// 3. li가 생성되었을 경우 input 값 초기화
+// 3. li가 생성되었을 경우 input 값 초기화 X
 // 4. li클릭 시 밑줄을 긋고 글자 색 변경 X
 // 5. li에서 삭제를 누를 시 li가 삭제되는 기능 구현 X
 
