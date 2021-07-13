@@ -26,6 +26,7 @@
 
     todoDeleteButton.type = "button";
     todoDeleteButton.textContent = "완료";
+    todoDeleteButton.classList.add('delete-btn');
     todo.textContent = todoControl.value;
     todoControl.value = "";
     todoControl.focus();
